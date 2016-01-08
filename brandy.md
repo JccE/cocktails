@@ -18,3 +18,34 @@ Eau de Vie, French for “Water of Life,” refers to the unaged alembic brandie
 
 **Brandy de Jerez**  
 Brandy de Jerez is distilled from wine produced from Airen and Palomino grapes grown in La Mancha, in central Spain. Brandy de Jerez is distilled once using either a traditional copper pot or column still, then aged in 500-liter American oak casks that previously contained sherry. The final product is blended using a complex system known as “Solera,” in which brandies of different ages are blended and labeled as Solera, Solera Reserva, or Solera Gran Reserva grade brandy. Solera Gran Reserva brandy is entirely potdistilled and aged eight years on average. -- *Gran Duque D’Alba*
+
+## Cocktails
+**Abreviation Key**  
+bs. -- Barspoon  
+cp. -- Cup  
+ds. -- Dash  
+dp. -- Drop  
+wh. -- Whole  
+l.  -- Liter  
+lb. -- Pound  
+oz. -- Ounce  
+ts. -- Teaspoon  
+tb. -- Tablespoon  
+
+---
+
+### Applejack Rabbit
+Apple brandy cocktails became popular in many of the top cocktail lounges in Manhattan after Pegu Club owner Audrey Saunders persuaded Lisa Laird to distribute her company’s bonded apple brandy in New York. -- *Judge Jr., Here’s How, 1927*
+
+**Ingredients**
+
+- 2.00 oz. --	Laird’s Bonded Apple Brandy
+- 0.75 oz. --	Lemon Juice
+- 0.75 oz. --	Orange Juice
+- 0.50 oz. --	Deep Mountain Grade B Maple Syrup
+
+**Instructions**
+
+1. Shake with ice
+2. Strain into a chilled coupe
+3. Serve without a garnish
